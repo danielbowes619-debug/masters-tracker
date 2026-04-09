@@ -1,16 +1,16 @@
 const ESPN_URL =
-  "https://www.espn.com/golf/leaderboard?season=2025&tournamentId=401811941";
+ https://www.espn.com/golf/leaderboard?season=2025&tournamentId=401811941;
 
 const PICKS = [
-  { person: "Daniel", golfer1: "Viktor Hovland", golfer2: "Sepp Straka" },
   { person: "James", golfer1: "Collin Morikawa", golfer2: "Cameron Smith" },
   { person: "Tandy", golfer1: "Xander Schauffele", golfer2: "Daniel Berger" },
   { person: "Josh", golfer1: "Justin Rose", golfer2: "Kurt Kitayama" },
-  { person: "Niles", golfer1: "Ludvig Åberg", golfer2: "Keegan Bradley" },
+  { person: "Niles", golfer1: "Ludvig Aberg", golfer2: "Keegan Bradley" },
   { person: "Snow", golfer1: "Jordan Spieth", golfer2: "Jacob Bridgeman" },
   { person: "Spike", golfer1: "Tommy Fleetwood", golfer2: "Max Homa" },
   { person: "Kirgan", golfer1: "Cameron Young", golfer2: "Gary Woodland" },
   { person: "Bennett", golfer1: "Patrick Reed", golfer2: "Tyrrell Hatton" },
+  { person: "Daniel", golfer1: "Viktor Hovland", golfer2: "Sepp Straka" },
   { person: "Blake", golfer1: "Patrick Cantlay", golfer2: "Shane Lowry" }
 ];
 
